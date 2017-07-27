@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vector Drawables</string>
+    <string-array name="documentation_resources">
+        <item>https://medium.com/@ali.muzaffar/understanding-vectordrawable-pathdata-commands-in-android-d56a6054610e</item>
+        <item>https://medium.com/@ali.muzaffar/understanding-vectordrawable-pathdata-commands-in-android-d56a6054610e</item>
+        <item>https://medium.com/@ali.muzaffar/understanding-vectordrawable-pathdata-commands-in-android-d56a6054610e</item>
+        <item>https://medium.com/@ali.muzaffar/understanding-vectordrawable-pathdata-commands-in-android-d56a6054610e</item>
+    </string-array>
+</resources>
